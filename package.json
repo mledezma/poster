@@ -1,0 +1,31 @@
+{
+  "name": "poster",
+  "version": "1.0.0",
+  "description": "My new cool poster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp build"
+  },
+  "keywords": [
+    "html5",
+    "cc3",
+    "poster",
+    "music"
+  ],
+  "author": "Marco Ledezma <marcoledezmacordero09@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^7.1.5",
+    "browser-sync": "^2.18.13",
+    "cssnano": "^3.10.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "run-sequence": "^2.2.0"
+  }
+}
